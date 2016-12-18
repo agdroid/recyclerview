@@ -1,4 +1,4 @@
-#Sun Dec 18 08:28:50 CET 2016
+#Sun Dec 18 10:29:59 CET 2016
 base.0=C\:\\Users\\andre\\AndroidStudioProjects\\AndroidDeveloperSamples\\RecyclerView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0a001413e6a5240043d11ceaee67c7de77f1d704
 renamed.1=classes2.dex
 renamed.0=classes.dex
